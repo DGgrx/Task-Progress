@@ -1,4 +1,4 @@
-#Task Progress
+# Task Progress
 
 I downloaded Kicad and searched for articles regarding PWM using Arduino. I found these interesting links in the process:
 
