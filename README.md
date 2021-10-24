@@ -9,3 +9,5 @@ I downloaded Kicad and searched for articles regarding PWM using Arduino. I foun
 * https://krprojects.wordpress.com/2014/05/28/arduino-timers/
 
 I understood how PWM is working. Understood Normal mode, Clear Timer on Compare Match (CTC) Mode and Fast PWM.
+
+In terms of the light follower i added the elements in the schematic and have to proceed further.
